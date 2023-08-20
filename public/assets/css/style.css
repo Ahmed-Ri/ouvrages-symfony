@@ -1,0 +1,21 @@
+.bg-image {
+  width: 100vw;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  filter: brightness(0.6);
+}
+section {
+  margin-top: 100px;
+}
+h1 {
+  font-size: xx-large;
+}
+button {
+  color: blue;
+}
+p {
+  color: aliceblue;
+}
